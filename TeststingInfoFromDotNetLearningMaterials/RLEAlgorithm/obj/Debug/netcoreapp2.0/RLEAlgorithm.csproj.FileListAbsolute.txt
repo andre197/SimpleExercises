@@ -7,3 +7,12 @@ C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\Teststin
 C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.dll
 C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.pdb
 C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\bin\Debug\netcoreapp2.0\RLEAlgorithm.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\bin\Debug\netcoreapp2.0\RLEAlgorithm.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\bin\Debug\netcoreapp2.0\RLEAlgorithm.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\RLEAlgorithm\obj\Debug\netcoreapp2.0\RLEAlgorithm.pdb

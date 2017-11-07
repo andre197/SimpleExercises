@@ -1,11 +1,10 @@
 ﻿namespace TeststingInfoFromDotNetLearningMaterials
 {
     using BinaryTreeFolder;
-    using HashTable;
+    using HashTableProject;
     using MergeSortProject;
     using Graph;
     using GraphsProject;
-    using RLEAlgorithm;
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -22,7 +21,6 @@
 
         public static void Main()
         {
-
         }
 
         private static void SimpleGraphTest(string fromPoint)
@@ -176,7 +174,7 @@
             const int loopTo = 17;
 
             string tableKey = "Ivan{0}";
-            string tableValue = "0885{1}";
+            string tableValue = "0885{0}";
 
             for (int i = 0; i < loopTo; i++)
             {

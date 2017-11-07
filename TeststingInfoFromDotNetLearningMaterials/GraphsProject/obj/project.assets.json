@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\GraphsProject.csproj",
-      "projectName": "GraphsProject",
-      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\GraphsProject.csproj",
+      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\MatrixAccessabilityChecker.csproj",
+      "projectName": "MatrixAccessabilityChecker",
+      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\MatrixAccessabilityChecker.csproj",
       "packagesPath": "C:\\Users\\AndreyAndreev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\obj\\",
+      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

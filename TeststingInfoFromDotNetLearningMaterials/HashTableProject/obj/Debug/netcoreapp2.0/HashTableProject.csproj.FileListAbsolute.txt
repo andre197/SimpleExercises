@@ -1,0 +1,8 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\bin\Debug\netcoreapp2.0\HashTableProject.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\bin\Debug\netcoreapp2.0\HashTableProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\bin\Debug\netcoreapp2.0\HashTableProject.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.pdb

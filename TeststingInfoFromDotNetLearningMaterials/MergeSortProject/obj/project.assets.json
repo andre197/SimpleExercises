@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj",
+      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj",
       "projectName": "MergeSortProject",
-      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj",
+      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj",
       "packagesPath": "C:\\Users\\AndreyAndreev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\obj\\",
+      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

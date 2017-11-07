@@ -1,0 +1,13 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\PracticalTasks.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\PracticalTasks.runtimeconfig.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\PracticalTasks.runtimeconfig.dev.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\PracticalTasks.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\PracticalTasks.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\BitwiseComplement.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\BitwiseComplement.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.pdb

@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\bin\Debug\netcoreapp2.0\MatrixAccessabilityChecker.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\bin\Debug\netcoreapp2.0\MatrixAccessabilityChecker.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\bin\Debug\netcoreapp2.0\MatrixAccessabilityChecker.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\obj\Debug\netcoreapp2.0\MatrixAccessabilityChecker.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\obj\Debug\netcoreapp2.0\MatrixAccessabilityChecker.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\obj\Debug\netcoreapp2.0\MatrixAccessabilityChecker.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\obj\Debug\netcoreapp2.0\MatrixAccessabilityChecker.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\obj\Debug\netcoreapp2.0\MatrixAccessabilityChecker.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\GraphsProject\obj\Debug\netcoreapp2.0\MatrixAccessabilityChecker.pdb

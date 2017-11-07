@@ -207,14 +207,24 @@
           "bin/placeholder/Graph.dll": {}
         }
       },
-      "GraphsProject/1.0.0": {
+      "HashTableProject/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "compile": {
-          "bin/placeholder/GraphsProject.dll": {}
+          "bin/placeholder/HashTableProject.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GraphsProject.dll": {}
+          "bin/placeholder/HashTableProject.dll": {}
+        }
+      },
+      "MatrixAccessabilityChecker/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MatrixAccessabilityChecker.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MatrixAccessabilityChecker.dll": {}
         }
       },
       "MergeSortProject/1.0.0": {
@@ -712,10 +722,15 @@
       "path": "../Graph/Graph.csproj",
       "msbuildProject": "../Graph/Graph.csproj"
     },
-    "GraphsProject/1.0.0": {
+    "HashTableProject/1.0.0": {
       "type": "project",
-      "path": "../GraphsProject/GraphsProject.csproj",
-      "msbuildProject": "../GraphsProject/GraphsProject.csproj"
+      "path": "../HashTableProject/HashTableProject.csproj",
+      "msbuildProject": "../HashTableProject/HashTableProject.csproj"
+    },
+    "MatrixAccessabilityChecker/1.0.0": {
+      "type": "project",
+      "path": "../GraphsProject/MatrixAccessabilityChecker.csproj",
+      "msbuildProject": "../GraphsProject/MatrixAccessabilityChecker.csproj"
     },
     "MergeSortProject/1.0.0": {
       "type": "project",
@@ -736,7 +751,8 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Graph >= 1.0.0",
-      "GraphsProject >= 1.0.0",
+      "HashTableProject >= 1.0.0",
+      "MatrixAccessabilityChecker >= 1.0.0",
       "MergeSortProject >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
       "RLEAlgorithm >= 1.0.0",
@@ -753,11 +769,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials.csproj",
+      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials.csproj",
       "projectName": "TeststingInfoFromDotNetLearningMaterials",
-      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials.csproj",
+      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials.csproj",
       "packagesPath": "C:\\Users\\AndreyAndreev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\obj\\",
+      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -776,20 +792,23 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\Graph\\Graph.csproj": {
-              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\Graph\\Graph.csproj"
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\Graph\\Graph.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\Graph\\Graph.csproj"
             },
-            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\RLEAlgorithm\\RLEAlgorithm.csproj": {
-              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\RLEAlgorithm\\RLEAlgorithm.csproj"
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\MatrixAccessabilityChecker.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\MatrixAccessabilityChecker.csproj"
             },
-            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\Tree\\TreeProject.csproj": {
-              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\Tree\\TreeProject.csproj"
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\RLEAlgorithm\\RLEAlgorithm.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\RLEAlgorithm\\RLEAlgorithm.csproj"
             },
-            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj": {
-              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj"
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\Tree\\TreeProject.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\Tree\\TreeProject.csproj"
             },
-            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\GraphsProject.csproj": {
-              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\GraphsProject\\GraphsProject.csproj"
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\HashTableProject\\HashTableProject.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\HashTableProject\\HashTableProject.csproj"
+            },
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\MergeSortProject\\MergeSortProject.csproj"
             }
           }
         }

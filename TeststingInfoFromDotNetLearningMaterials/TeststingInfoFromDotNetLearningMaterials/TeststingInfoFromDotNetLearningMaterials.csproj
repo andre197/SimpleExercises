@@ -6,9 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\GraphsProject\MatrixAccessabilityChecker.csproj" />
     <ProjectReference Include="..\Graph\Graph.csproj" />
+    <ProjectReference Include="..\HashTableProject\HashTableProject.csproj" />
     <ProjectReference Include="..\MergeSortProject\MergeSortProject.csproj" />
-    <ProjectReference Include="..\GraphsProject\GraphsProject.csproj" />
     <ProjectReference Include="..\RLEAlgorithm\RLEAlgorithm.csproj" />
     <ProjectReference Include="..\Tree\TreeProject.csproj" />
   </ItemGroup>

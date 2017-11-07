@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\bin\Debug\netcoreapp2.0\BitwiseComplement.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\bin\Debug\netcoreapp2.0\BitwiseComplement.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\bin\Debug\netcoreapp2.0\BitwiseComplement.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\obj\Debug\netcoreapp2.0\BitwiseComplement.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\obj\Debug\netcoreapp2.0\BitwiseComplement.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\obj\Debug\netcoreapp2.0\BitwiseComplement.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\obj\Debug\netcoreapp2.0\BitwiseComplement.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\obj\Debug\netcoreapp2.0\BitwiseComplement.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Bitwise_Complement\obj\Debug\netcoreapp2.0\BitwiseComplement.pdb

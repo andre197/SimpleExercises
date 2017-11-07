@@ -7,3 +7,12 @@ C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\Teststin
 C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfo.cs
 C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.dll
 C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\bin\Debug\netcoreapp2.0\Graph.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\bin\Debug\netcoreapp2.0\Graph.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\bin\Debug\netcoreapp2.0\Graph.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\Graph\obj\Debug\netcoreapp2.0\Graph.pdb

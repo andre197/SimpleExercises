@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\AvlTreeProject\\AvlTreeProject.csproj",
+      "projectUniqueName": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\AvlTreeProject\\AvlTreeProject.csproj",
       "projectName": "AvlTreeProject",
-      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\AvlTreeProject\\AvlTreeProject.csproj",
+      "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\AvlTreeProject\\AvlTreeProject.csproj",
       "packagesPath": "C:\\Users\\AndreyAndreev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\DotNetInternLearningMaterials\\TeststingInfoFromDotNetLearningMaterials\\AvlTreeProject\\obj\\",
+      "outputPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\TeststingInfoFromDotNetLearningMaterials\\AvlTreeProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

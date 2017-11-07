@@ -9,7 +9,8 @@
       "TeststingInfoFromDotNetLearningMaterials/1.0.0": {
         "dependencies": {
           "Graph": "1.0.0",
-          "GraphsProject": "1.0.0",
+          "HashTableProject": "1.0.0",
+          "MatrixAccessabilityChecker": "1.0.0",
           "MergeSortProject": "1.0.0",
           "RLEAlgorithm": "1.0.0",
           "TreeProject": "1.0.0"
@@ -23,9 +24,14 @@
           "Graph.dll": {}
         }
       },
-      "GraphsProject/1.0.0": {
+      "HashTableProject/1.0.0": {
         "runtime": {
-          "GraphsProject.dll": {}
+          "HashTableProject.dll": {}
+        }
+      },
+      "MatrixAccessabilityChecker/1.0.0": {
+        "runtime": {
+          "MatrixAccessabilityChecker.dll": {}
         }
       },
       "MergeSortProject/1.0.0": {
@@ -56,7 +62,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "GraphsProject/1.0.0": {
+    "HashTableProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MatrixAccessabilityChecker/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
