@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\bin\Debug\netcoreapp2.0\MergeSortProject.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\bin\Debug\netcoreapp2.0\MergeSortProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\bin\Debug\netcoreapp2.0\MergeSortProject.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\obj\Debug\netcoreapp2.0\MergeSortProject.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\obj\Debug\netcoreapp2.0\MergeSortProject.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\obj\Debug\netcoreapp2.0\MergeSortProject.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\obj\Debug\netcoreapp2.0\MergeSortProject.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\obj\Debug\netcoreapp2.0\MergeSortProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\MergeSortProject\obj\Debug\netcoreapp2.0\MergeSortProject.pdb

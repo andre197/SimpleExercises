@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\bin\Debug\netcoreapp2.0\AvlTreeProject.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\bin\Debug\netcoreapp2.0\AvlTreeProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\bin\Debug\netcoreapp2.0\AvlTreeProject.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\obj\Debug\netcoreapp2.0\AvlTreeProject.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\obj\Debug\netcoreapp2.0\AvlTreeProject.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\obj\Debug\netcoreapp2.0\AvlTreeProject.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\obj\Debug\netcoreapp2.0\AvlTreeProject.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\obj\Debug\netcoreapp2.0\AvlTreeProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\AvlTreeProject\obj\Debug\netcoreapp2.0\AvlTreeProject.pdb

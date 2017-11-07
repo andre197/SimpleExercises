@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "TeststingInfoFromDotNetLearningMaterials/1.0.0": {
+        "dependencies": {
+          "Graph": "1.0.0",
+          "GraphsProject": "1.0.0",
+          "MergeSortProject": "1.0.0",
+          "RLEAlgorithm": "1.0.0",
+          "TreeProject": "1.0.0"
+        },
+        "runtime": {
+          "TeststingInfoFromDotNetLearningMaterials.dll": {}
+        }
+      },
+      "Graph/1.0.0": {
+        "runtime": {
+          "Graph.dll": {}
+        }
+      },
+      "GraphsProject/1.0.0": {
+        "runtime": {
+          "GraphsProject.dll": {}
+        }
+      },
+      "MergeSortProject/1.0.0": {
+        "runtime": {
+          "MergeSortProject.dll": {}
+        }
+      },
+      "RLEAlgorithm/1.0.0": {
+        "runtime": {
+          "RLEAlgorithm.dll": {}
+        }
+      },
+      "TreeProject/1.0.0": {
+        "runtime": {
+          "TreeProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeststingInfoFromDotNetLearningMaterials/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Graph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphsProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MergeSortProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RLEAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreeProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

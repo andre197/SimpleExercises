@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\bin\Debug\netcoreapp2.0\TreeProject.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\bin\Debug\netcoreapp2.0\TreeProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\bin\Debug\netcoreapp2.0\TreeProject.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\obj\Debug\netcoreapp2.0\TreeProject.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\obj\Debug\netcoreapp2.0\TreeProject.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\obj\Debug\netcoreapp2.0\TreeProject.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\obj\Debug\netcoreapp2.0\TreeProject.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\obj\Debug\netcoreapp2.0\TreeProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\DotNetInternLearningMaterials\TeststingInfoFromDotNetLearningMaterials\Tree\obj\Debug\netcoreapp2.0\TreeProject.pdb
