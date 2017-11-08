@@ -6,13 +6,13 @@
     {
         public List<Vertex> Verteces { get; set; } = new List<Vertex>();
 
-        public Dictionary<string,int> FindShortestPaths(string startingVertexName)
+        public Dictionary<Vertex,int> FindShortestPaths(string startingVertexName)
         {
             Vertex vertex = this.Verteces.Find(v => v.Name == startingVertexName);
 
             Djikstra djikstra = new Djikstra();
 
-            Dictionary<string, int> dic = djikstra.FindPaths(vertex, this.Verteces);
+            Dictionary<Vertex, int> dic = djikstra.FindPaths(vertex, this.Verteces);
 
             return dic;
         }

@@ -6,76 +6,49 @@
 
     public class Djikstra
     {
-        public Dictionary<string, int> FindPaths(Vertex vertex, List<Vertex> verteces)
+        public Dictionary<Vertex, int> FindPaths(Vertex vertex, List<Vertex> verteces)
         {
-            Dictionary<string, int> pathToVerteces = new Dictionary<string, int>();
+            Dictionary<Vertex, int> pathToVerteces = new Dictionary<Vertex, int>();
 
             foreach (var v in verteces)
             {
-                pathToVerteces[v.Name] = int.MaxValue;
+                pathToVerteces[v] = int.MaxValue;
             }
 
-            pathToVerteces[vertex.Name] = 0;
+            pathToVerteces[vertex] = 0;
 
             Vertex currentVertex = vertex;
 
-            Stack<Edge> vertexEdges = new Stack<Edge>(currentVertex.Edges);
+            Queue<Edge> allEdges = new Queue<Edge>(currentVertex.Edges);
 
-            while (vertexEdges.Count > 0)
+            while (allEdges.Count > 0)
             {
-                foreach (var currentEdge in vertexEdges)
-                {
-                    if ((currentEdge.Weight + pathToVerteces[currentVertex.Name]) < pathToVerteces[currentEdge.VertexTo.Name])
-                    {
-                        pathToVerteces[currentEdge.VertexTo.Name] = currentEdge.Weight + pathToVerteces[currentVertex.Name];
-                    }
-                }
-
-                currentVertex = vertexEdges.Pop().VertexTo;
+                Edge nextVertexEdge = allEdges.Peek();
 
                 for (int i = 0; i < currentVertex.Edges.Count; i++)
                 {
-                    vertexEdges.Push(currentVertex.Edges[i]);
+                    Edge currentEdge = allEdges.Dequeue();
+
+                    if ((currentEdge.Weight + pathToVerteces[currentVertex]) < pathToVerteces[currentEdge.VertexTo])
+                    {
+                        pathToVerteces[currentEdge.VertexTo] = currentEdge.Weight + pathToVerteces[currentVertex];
+                    }
+
+                    if (currentEdge.Weight < nextVertexEdge.Weight)
+                    {
+                        nextVertexEdge = currentEdge;
+                    }
+                }
+
+                currentVertex = verteces.Find(v => v == nextVertexEdge.VertexTo);
+
+                foreach (var edge in currentVertex.Edges)
+                {
+                    allEdges.Enqueue(edge);
                 }
             }
-
-            //while (currentVertex.Edges.Count > 0)
-            //{
-            //    List<Edge> currentVertexEdges = new List<Edge>(currentVertex.Edges.OrderBy(e => e.Weight));
-
-            //    for (int i = 0; i < currentVertexEdges.Count; i++)
-            //    {
-            //        var currentEdge = currentVertexEdges[i];
-
-            //        if ((currentEdge.Weight + pathToVerteces[currentVertex.Name]) < pathToVerteces[currentEdge.VertexTo.Name])
-            //        {
-            //            pathToVerteces[currentEdge.VertexTo.Name] = currentEdge.Weight + pathToVerteces[currentVertex.Name];
-            //        }
-            //    }
-
-            //    var nexVertexEdge = currentVertexEdges
-            //                    .OrderBy(e => e.Weight)
-            //                    .Where(e => e.VertexTo != null
-            //                        && e.VertexTo.Edges.Count > 0)
-            //                    .FirstOrDefault();
-
-            //    if (nexVertexEdge != null)
-            //    {
-            //        currentVertex = nexVertexEdge.VertexTo;
-
-            //    }
-            //    else
-            //    {
-            //        break;
-            //    }
-            //}
 
             return pathToVerteces;
         }
     }
 }
-
-//if ((currentEdge.Weight + pathToVerteces[currentVertex.Name]) < pathToVerteces[currentEdge.VertexTo.Name])
-//                {
-//                    pathToVerteces[currentEdge.VertexTo.Name] = currentEdge.Weight + pathToVerteces[currentVertex.Name];
-//                }

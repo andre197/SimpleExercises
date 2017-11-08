@@ -6,3 +6,4 @@ C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNe
 C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.AssemblyInfo.cs
 C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.dll
 C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\TeststingInfoFromDotNetLearningMaterials\HashTableProject\obj\Debug\netcoreapp2.0\HashTableProject.csprojResolveAssemblyReference.cache

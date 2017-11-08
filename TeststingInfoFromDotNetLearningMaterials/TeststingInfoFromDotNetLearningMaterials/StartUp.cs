@@ -55,6 +55,66 @@
                 Name = "f"
             };
 
+            Vertex g = new Vertex()
+            {
+                Name = "g"
+            };
+
+            Vertex h = new Vertex()
+            {
+                Name = "h"
+            };
+
+            Vertex i = new Vertex()
+            {
+                Name = "i"
+            };
+
+            Vertex j = new Vertex()
+            {
+                Name = "j"
+            };
+
+            Vertex k = new Vertex()
+            {
+                Name = "k"
+            };
+
+            Vertex l = new Vertex()
+            {
+                Name = "l"
+            };
+
+            Vertex m = new Vertex()
+            {
+                Name = "m"
+            };
+
+            Vertex n = new Vertex()
+            {
+                Name = "n"
+            };
+
+            Vertex o = new Vertex()
+            {
+                Name = "o"
+            };
+
+            Vertex p = new Vertex()
+            {
+                Name = "p"
+            };
+
+            Vertex q = new Vertex()
+            {
+                Name = "q"
+            };
+
+            Vertex r = new Vertex()
+            {
+                Name = "r"
+            };
+
             SimpleGraph graph = new SimpleGraph();
 
             graph.AddVertex(a);
@@ -63,13 +123,46 @@
             graph.AddVertex(d);
             graph.AddVertex(e);
             graph.AddVertex(f);
+            graph.AddVertex(g);
+            graph.AddVertex(h);
+            graph.AddVertex(i);
+            graph.AddVertex(j);
+            graph.AddVertex(k);
+            graph.AddVertex(l);
+            graph.AddVertex(m);
+            graph.AddVertex(n);
+            graph.AddVertex(o);
+            graph.AddVertex(p);
+            graph.AddVertex(q);
+            graph.AddVertex(r);
 
-            graph.AddEdge("a", "b", 2);
-            graph.AddEdge("a", "f", 4);
-            graph.AddEdge("b", "c", 3);
-            graph.AddEdge("d", "c", 3);
-            graph.AddEdge("e", "d", 1);
+            graph.AddEdge("a", "b", 1);
+            graph.AddEdge("a", "c", 4);
+            graph.AddEdge("a", "d", 5);
+            graph.AddEdge("b", "d", 3);
+            graph.AddEdge("c", "d", 6);
+            graph.AddEdge("d", "e", 2);
+            graph.AddEdge("d", "f", 3);
+            graph.AddEdge("e", "c", 10);
+            graph.AddEdge("e", "g", 7);
             graph.AddEdge("f", "e", 2);
+            graph.AddEdge("f", "g", 4);
+            graph.AddEdge("f", "h", 2);
+            graph.AddEdge("g", "h", 5);
+            graph.AddEdge("g", "i", 3);
+            graph.AddEdge("i", "h", 3);
+            graph.AddEdge("h", "l", 1);
+            graph.AddEdge("l", "j", 2);
+            graph.AddEdge("j", "k", 1);
+            graph.AddEdge("j", "n", 4);
+            graph.AddEdge("j", "m", 3);
+            graph.AddEdge("k", "n", 2);
+            graph.AddEdge("m", "o", 6);
+            graph.AddEdge("n", "m", 4);
+            graph.AddEdge("n", "p", 8);
+            graph.AddEdge("o", "p", 2);
+            graph.AddEdge("p", "q", 20);
+            graph.AddEdge("q", "r", 2);
 
             var smt = graph.FindShortestPaths(fromPoint);
 
@@ -77,11 +170,11 @@
             {
                 if (item.Value == int.MaxValue)
                 {
-                    Console.WriteLine($"No available path was found between {fromPoint} and {item.Key}");
+                    Console.WriteLine($"No available path was found between {fromPoint} and {item.Key.Name}");
                 }
                 else
                 {
-                    Console.WriteLine($"shortest path to vertex {item.Key} from vertex {fromPoint} is {item.Value}");
+                    Console.WriteLine($"shortest path to vertex {item.Key.Name} from vertex {fromPoint} is {item.Value}");
                 }
             }
         }
