@@ -1,17 +1,17 @@
 ﻿namespace PracticalTasks
 {
-    using BitwiseComplement;
     using System;
+    using XmlParserProject;
 
     public class Program
     {
         public static void Main()
         {
-            Converter converter = new Converter();
+            string xml = Console.ReadLine();
 
-            int number = int.Parse(Console.ReadLine());
+            Xml xmlParser = new Xml(xml);
 
-            Console.WriteLine(converter.ConvertToReversedNumber(number));
+            xmlParser.Parse();
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\bin\Debug\netcoreapp2.0\XmlParserProject.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\bin\Debug\netcoreapp2.0\XmlParserProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\bin\Debug\netcoreapp2.0\XmlParserProject.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\obj\Debug\netcoreapp2.0\XmlParserProject.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\obj\Debug\netcoreapp2.0\XmlParserProject.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\obj\Debug\netcoreapp2.0\XmlParserProject.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\obj\Debug\netcoreapp2.0\XmlParserProject.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\obj\Debug\netcoreapp2.0\XmlParserProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\XmlParserProject\obj\Debug\netcoreapp2.0\XmlParserProject.pdb

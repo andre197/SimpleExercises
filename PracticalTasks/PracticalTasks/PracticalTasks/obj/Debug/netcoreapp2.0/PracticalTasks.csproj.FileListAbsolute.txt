@@ -11,3 +11,5 @@ C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\Practic
 C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\BitwiseComplement.pdb
 C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.dll
 C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\obj\Debug\netcoreapp2.0\PracticalTasks.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\XmlParserProject.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\PracticalTasks\bin\Debug\netcoreapp2.0\XmlParserProject.pdb

@@ -5,6 +5,7 @@
     using MergeSortProject;
     using Graph;
     using GraphsProject;
+    using RLEAlgorithm;
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -21,6 +22,12 @@
 
         public static void Main()
         {
+            Converter converter = new Converter();
+
+            converter.FromString();
+            converter.Insert();
+            converter.Remove();
+            converter.FromCode();
         }
 
         private static void SimpleGraphTest(string fromPoint)
