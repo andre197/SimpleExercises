@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\bin\Debug\netcoreapp2.0\UniversityOfGiantBooks.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\bin\Debug\netcoreapp2.0\UniversityOfGiantBooks.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\bin\Debug\netcoreapp2.0\UniversityOfGiantBooks.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\obj\Debug\netcoreapp2.0\UniversityOfGiantBooks.csprojResolveAssemblyReference.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\obj\Debug\netcoreapp2.0\UniversityOfGiantBooks.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\obj\Debug\netcoreapp2.0\UniversityOfGiantBooks.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\obj\Debug\netcoreapp2.0\UniversityOfGiantBooks.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\obj\Debug\netcoreapp2.0\UniversityOfGiantBooks.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\UniversityOfGiantBooks\obj\Debug\netcoreapp2.0\UniversityOfGiantBooks.pdb
