@@ -9,6 +9,7 @@
       "PracticalTasks/1.0.0": {
         "dependencies": {
           "BitwiseComplement": "1.0.0",
+          "Generics": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
           "XmlParserProject": "1.0.0"
@@ -444,6 +445,11 @@
           "BitwiseComplement.dll": {}
         }
       },
+      "Generics/1.0.0": {
+        "runtime": {
+          "Generics.dll": {}
+        }
+      },
       "XmlParserProject/1.0.0": {
         "runtime": {
           "XmlParserProject.dll": {}
@@ -822,6 +828,11 @@
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
     "BitwiseComplement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Generics/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

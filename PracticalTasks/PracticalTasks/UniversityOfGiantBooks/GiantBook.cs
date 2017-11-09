@@ -11,7 +11,7 @@
             this.to = to;
         }
 
-        public bool IsBookContained(int facultyNumber)
+        public bool IsStudentContained(int facultyNumber)
                 => this.from >= facultyNumber && facultyNumber < this.to;
     }
 }

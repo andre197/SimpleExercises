@@ -1,0 +1,9 @@
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\bin\Debug\netcoreapp2.0\Generics.deps.json
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\bin\Debug\netcoreapp2.0\Generics.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\bin\Debug\netcoreapp2.0\Generics.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\obj\Debug\netcoreapp2.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\obj\Debug\netcoreapp2.0\Generics.AssemblyInfoInputs.cache
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\obj\Debug\netcoreapp2.0\Generics.AssemblyInfo.cs
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\obj\Debug\netcoreapp2.0\Generics.dll
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\obj\Debug\netcoreapp2.0\Generics.pdb
+C:\Users\AndreyAndreev\Desktop\New folder\SimpleExercises\PracticalTasks\PracticalTasks\Generics\obj\Debug\netcoreapp2.0\Generics.csprojResolveAssemblyReference.cache

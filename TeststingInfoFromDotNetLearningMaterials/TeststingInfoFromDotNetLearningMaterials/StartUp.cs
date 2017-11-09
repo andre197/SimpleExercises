@@ -22,12 +22,7 @@
 
         public static void Main()
         {
-            Converter converter = new Converter();
-
-            converter.FromString();
-            converter.Insert();
-            converter.Remove();
-            converter.FromCode();
+            SimpleGraphTest("a");
         }
 
         private static void SimpleGraphTest(string fromPoint)

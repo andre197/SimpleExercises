@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Bitwise_Complement\BitwiseComplement.csproj" />
+    <ProjectReference Include="..\Generics\Generics.csproj" />
     <ProjectReference Include="..\XmlParserProject\XmlParserProject.csproj" />
   </ItemGroup>
 

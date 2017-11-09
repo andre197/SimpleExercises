@@ -58,8 +58,16 @@
 
             if (end.Success)
             {
-                this.element.Elements.Add(new Element() { Name = firstElement.Groups[1].Value });
-                ParseAttributes(firstElement);
+                if (this.element.Name == null)
+                {
+                    this.element.Name = firstElement.Groups[2].Value;
+                    ParseAttributes(firstElement);
+                }
+                else
+                {
+                    this.element.Elements.Add(new Element() { Name = firstElement.Groups[2].Value });
+                    ParseAttributes(firstElement);
+                }
             }
         }
 
@@ -72,10 +80,13 @@
             {
                 foreach (Match attribute in attributes)
                 {
-                    this.element
+                    if (this.element.Name == null)
+                    {
+                        this.element
                         .Attributes
                         .Add(new Attribute(attribute.Groups[1].Value,
                                             attribute.Groups[2].Value));
+                    }
                 }
             }
         }

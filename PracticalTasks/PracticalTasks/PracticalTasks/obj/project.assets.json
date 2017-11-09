@@ -907,6 +907,16 @@
           "bin/placeholder/BitwiseComplement.dll": {}
         }
       },
+      "Generics/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Generics.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Generics.dll": {}
+        }
+      },
       "XmlParserProject/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -3408,6 +3418,11 @@
       "path": "../Bitwise_Complement/BitwiseComplement.csproj",
       "msbuildProject": "../Bitwise_Complement/BitwiseComplement.csproj"
     },
+    "Generics/1.0.0": {
+      "type": "project",
+      "path": "../Generics/Generics.csproj",
+      "msbuildProject": "../Generics/Generics.csproj"
+    },
     "XmlParserProject/1.0.0": {
       "type": "project",
       "path": "../XmlParserProject/XmlParserProject.csproj",
@@ -3417,6 +3432,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "BitwiseComplement >= 1.0.0",
+      "Generics >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 2.0.0",
       "Microsoft.NETCore.App >= 2.0.0",
@@ -3461,6 +3477,9 @@
             },
             "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\PracticalTasks\\PracticalTasks\\Bitwise_Complement\\BitwiseComplement.csproj": {
               "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\PracticalTasks\\PracticalTasks\\Bitwise_Complement\\BitwiseComplement.csproj"
+            },
+            "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\PracticalTasks\\PracticalTasks\\Generics\\Generics.csproj": {
+              "projectPath": "C:\\Users\\AndreyAndreev\\Desktop\\New folder\\SimpleExercises\\PracticalTasks\\PracticalTasks\\Generics\\Generics.csproj"
             }
           }
         }
