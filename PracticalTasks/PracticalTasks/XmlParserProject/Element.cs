@@ -14,52 +14,56 @@ namespace XmlParserProject
 
         public int ElementsCount => this.Elements.Count;
 
-        public void Parse(string xml)
+        public void Parse(string xml, Element element)
         {
-            Match regex = Regex.Match(xml, RegexStrings.PatternForElement);
+            MatchCollection matches = Regex.Matches(xml, RegexStrings.PatternForElements);
 
-            if (regex.Success)
+            if (matches.Count > 0)
             {
-                MatchCollection matches = Regex.Matches(xml, string.Format(RegexStrings.PatternForSameElements, regex.Groups[2].Value));
-
-                if (matches.Count > 0)
+                foreach (Match match in matches.Where(m => m.Length > 0))
                 {
-                    foreach (Match match in matches.Where(m => m.Length > 0))
+                    if (element.Name == null)
                     {
-                        string element = match.Groups[2].Value;
+                        element.Name = match.Groups[1].Value;
+                    }
 
-                        Match end = Regex.Match(xml, string.Format(RegexStrings.PatternForEndOfElement, element));
+                    ParseAttributes(match);
 
-                        if (end.Success)
-                        {
-                            if (this.Name == null)
-                            {
-                                this.Name = match.Groups[1].Value;
-                            }
+                    int startingIndex = xml.IndexOf(match.Groups[1].Value) + match.Groups[1].Value.Length;
+                    int endingIndex = xml.IndexOf(match.Groups[5].Value);
 
-                            ParseAttributes(match);
+                    string nextXmlToBeParsed = string.Empty;
 
-                            int startingIndex = xml.IndexOf(match.Groups[1].Value) + match.Groups[1].Value.Length;
-                            int endingIndex = xml.IndexOf(end.Value);
+                    if (endingIndex - startingIndex > 0)
+                    {
+                        nextXmlToBeParsed = xml.Substring(startingIndex, endingIndex - startingIndex);
 
-                            if (endingIndex - startingIndex > 0)
-                            {
-                                string nextXmlToBeParsed = xml.Substring(startingIndex, endingIndex - startingIndex);
-
-                                Element subElement = new Element();
-
-                                subElement.Parse(nextXmlToBeParsed);
-
-                                this.Elements.Add(subElement);
-                            }
-                        }
+                        AddSubs(nextXmlToBeParsed, element);
                     }
                 }
             }
-
         }
 
-        private void ParseAttributes(Match element)
+        private void AddSubs(string nextXmlToBeParsed, Element element)
+        {
+            MatchCollection matches = Regex.Matches(nextXmlToBeParsed, RegexStrings.PatternForElements);
+
+            if (matches.Count > 0)
+            {
+                foreach (Match match in matches.Where(m => m.Length > 0))
+                {
+                    Element subElement = new Element();
+
+                    subElement.Name = match.Groups[1].Value;
+
+                    subElement.Parse(match.Groups[4].Value, this);
+
+                    element.Elements.Add(subElement);
+                }
+            }
+        }
+
+        public void ParseAttributes(Match element)
         {
             Regex regexForAttributes = new Regex(RegexStrings.PatternForAttributes);
             MatchCollection attributes = regexForAttributes.Matches(element.Groups[3].Value);
@@ -120,9 +124,10 @@ namespace XmlParserProject
 
         public void RemoveAttribute(Attribute attribute)
             => this.Attributes.Remove(attribute);
-        
+
         public void AddElement(Element element)
             => this.Elements.Add(element);
+
         public void RemoveElement(Element element)
             => this.Elements.Remove(element);
     }
